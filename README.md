@@ -3,3 +3,8 @@ https://www.youtube.com/watch?v=N7dl57vEzVY&ab_channel=InstituteofProfessionalSk
 https://drive.google.com/drive/folders/17ZGsFTl5vA9Olteq0kieINRvxWgVlgak <br>
 https://getintoway.com/ <br>
 https://drive.google.com/drive/folders/1ezDZ3uDplBOjbuBGw1qxzzD64tiXhtDt?fbclid=IwY2xjawLosotleHRuA2FlbQIxMABicmlkETFjeENpa2dFMFdjSVBJM3c5AR5VbX_bvcXM_rRMhtUvSJZtfHVWSBYO7neTv1Rh3ltYWc_zsWxYn_BFt_Sr6A_aem_2UfPlmxmS6wNofK_v-hZUA <br>
+https://www.poloshirtsonly.com.au/blog/decoding-the-polo-shirt-understanding-fits-collars-plackets.htm <br>
+https://www.youtube.com/watch?v=j17dGVw3_gM&ab_channel=CartesianCaramel <br>
+https://www.mediafire.com/file/99e2ms3kf8qu39r/yqarch_6.7.4.rar/file <br>
+https://pdfcoffee.com/ <br>
+https://huggingface.co/spaces/ovi054/image-to-prompt  <br>

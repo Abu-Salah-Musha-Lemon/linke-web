@@ -8,3 +8,18 @@ https://www.youtube.com/watch?v=j17dGVw3_gM&ab_channel=CartesianCaramel <br>
 https://www.mediafire.com/file/99e2ms3kf8qu39r/yqarch_6.7.4.rar/file <br>
 https://pdfcoffee.com/ <br>
 https://huggingface.co/spaces/ovi054/image-to-prompt  <br>
+https://www.youtube.com/watch?v=81nTh3a5P0I <br>
+https://www.youtube.com/@Najdmie/videos <br>
+https://drive.google.com/file/d/1gphMH7ekXOE6I6-xc49ASSodvLbg_ELQ/view <br>
+https://4download.net/tags/photoshop%20plugins/ <br>
+https://www.youtube.com/watch?v=81nTh3a5P0I <br>
+https://youtu.be/9IJXOj8jUdg?si=tMrFH0QbVu7jMUXT <br>
+https://weadown.com/wordpress-plugins/ <br>
+https://www.fast-typing.com/typing-speed-test.php?lan=bangla <br>
+
+
+
+
+
+
+

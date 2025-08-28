@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=81nTh3a5P0I <br>
 https://youtu.be/9IJXOj8jUdg?si=tMrFH0QbVu7jMUXT <br>
 https://weadown.com/wordpress-plugins/ <br>
 https://www.fast-typing.com/typing-speed-test.php?lan=bangla <br>
+https://www.shirtspace.com/blog/how-to-put-a-logo-on-a-shirt <br>
 
 
 

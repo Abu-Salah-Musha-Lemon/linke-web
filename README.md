@@ -19,6 +19,7 @@ https://www.fast-typing.com/typing-speed-test.php?lan=bangla <br>
 https://www.shirtspace.com/blog/how-to-put-a-logo-on-a-shirt <br>
 https://drive.google.com/drive/folders/1PicijFi3vKg8AOm1FN6wHpFn5cjj_tHk<br>
 https://drive.google.com/drive/folders/1PMr8jBrSPy9igm_pdSBi-rQ9_KFJv4rw<br>
+https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD?fbclid=IwY2xjawMexu5leHRuA2FlbQIxMABicmlkETFVRUliU2ZoYzRZb3RQdDFkAR7j1Ky8ps3Xds9T3x0aiYzmDQoCNu-Pmwv7EZiIvIRKAU6PORwR7hz6nkrytQ_aem_UBXUbT9X6eYVux0c_T4wEg <br>
 
 
 

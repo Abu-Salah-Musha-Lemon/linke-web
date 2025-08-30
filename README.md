@@ -267,7 +267,21 @@ Educational use only — no endorsement or affiliation with the tools mentioned.
 
 
 
+##✅ Prompt to Generate a Fully Functional Carousel with Pan-on-Hover<br>
 
+Prompt: 
+```
+Create a responsive, infinite-scrolling image carousel using HTML, CSS, and JavaScript with the following features:
+- Auto-scrolls left to right infinitely
+- Supports left and right arrow buttons for manual navigation with smooth transition
+- Responsive layout with smaller card sizes on mobile
+- Each image is fixed at 300x400px (or 200x260px on mobile)
+- On hover, only the hovered image should smoothly pan from right to left (no zoom)
+- Carousel pauses auto-scroll when hovered
+- Include swipe/touch support for mobile
+- Use placeholder images for demonstration
+- Ensure smooth, performant animations
+  ```
 
 
 

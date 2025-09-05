@@ -1,4 +1,9 @@
 # linke-web
+## data 
+https://drive.google.com/drive/folders/1PicijFi3vKg8AOm1FN6wHpFn5cjj_tHk
+<br>
+https://drive.google.com/drive/folders/1PMr8jBrSPy9igm_pdSBi-rQ9_KFJv4rw
+<br>
 https://www.youtube.com/watch?v=N7dl57vEzVY&ab_channel=InstituteofProfessionalSkills <br>
 https://drive.google.com/drive/folders/17ZGsFTl5vA9Olteq0kieINRvxWgVlgak <br>
 https://getintoway.com/ <br>

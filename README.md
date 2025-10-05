@@ -27,6 +27,9 @@ https://drive.google.com/drive/folders/1PicijFi3vKg8AOm1FN6wHpFn5cjj_tHk<br>
 https://drive.google.com/drive/folders/1PMr8jBrSPy9igm_pdSBi-rQ9_KFJv4rw<br>
 https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD?fbclid=IwY2xjawMexu5leHRuA2FlbQIxMABicmlkETFVRUliU2ZoYzRZb3RQdDFkAR7j1Ky8ps3Xds9T3x0aiYzmDQoCNu-Pmwv7EZiIvIRKAU6PORwR7hz6nkrytQ_aem_UBXUbT9X6eYVux0c_T4wEg <br>
 QR code generator : https://www.qrcode-monkey.com/#text <br>
+Google PageSpeed Insights – https://pagespeed.web.dev/ <br>
+
+Mobile-Friendly Test – https://search.google.com/test/mobile-friendly<br>
 
 
 # 🌟 Top 50 AI Tools You Should Know (Bengali Edition)

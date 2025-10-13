@@ -292,6 +292,8 @@ Create a responsive, infinite-scrolling image carousel using HTML, CSS, and Java
 - Use placeholder images for demonstration
 - Ensure smooth, performant animations
   ```
+<br>
+React bits animate: https://reactbits.dev/
 
 
 

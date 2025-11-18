@@ -5,8 +5,7 @@ https://drive.google.com/drive/folders/1PicijFi3vKg8AOm1FN6wHpFn5cjj_tHk
 https://drive.google.com/drive/folders/1PMr8jBrSPy9igm_pdSBi-rQ9_KFJv4rw
 <br>
 https://photoskop.com/ <br>
-Diagnostic and statistical : <a href="https://www.madinamerica.com/wp-content/uploads/2015/08/DSM-II.pdf">Diagnostic and Statistical Manual of Mental
-Disorders (DSM-II)</a> <br>
+<a href="https://www.madinamerica.com/wp-content/uploads/2015/08/DSM-II.pdf">Diagnostic and Statistical Manual of Mental Disorders (DSM-II)</a> <br>
 https://www.youtube.com/watch?v=N7dl57vEzVY&ab_channel=InstituteofProfessionalSkills <br>
 https://drive.google.com/drive/folders/17ZGsFTl5vA9Olteq0kieINRvxWgVlgak <br>
 https://getintoway.com/ <br>

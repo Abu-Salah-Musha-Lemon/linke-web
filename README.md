@@ -1,41 +1,97 @@
-# linke-web
-## data 
-- [Digital forensics software tools](https://drive.google.com/drive/folders/1Agn8tG2M17NeEOa7pSTv73lXQVEjz82y?usp=sharing) <br>
-<hr>
-- [Q](https://drive.google.com/drive/folders/1PicijFi3vKg8AOm1FN6wHpFn5cjj_tHk)
-<br>
-https://drive.google.com/drive/folders/1PMr8jBrSPy9igm_pdSBi-rQ9_KFJv4rw
-<br>
-https://photoskop.com/ <br>
-<a href="https://www.madinamerica.com/wp-content/uploads/2015/08/DSM-II.pdf">Diagnostic and Statistical Manual of Mental Disorders (DSM-II)</a> <br>
-<a href="https://drive.google.com/drive/folders/1U7-Enp0EaZ19nyI2RclV0P-MSnmtm1PG">Premium Fonts </a><br>
-<a href="https://phet.colorado.edu/en/simulations/wave-on-a-string">Phet Colorado edu </a><br>
-<a href=""/>Recuva</a><br>
-https://www.youtube.com/watch?v=N7dl57vEzVY&ab_channel=InstituteofProfessionalSkills <br>
-https://drive.google.com/drive/folders/17ZGsFTl5vA9Olteq0kieINRvxWgVlgak <br>
-https://getintoway.com/ <br>
-https://drive.google.com/drive/folders/1ezDZ3uDplBOjbuBGw1qxzzD64tiXhtDt?fbclid=IwY2xjawLosotleHRuA2FlbQIxMABicmlkETFjeENpa2dFMFdjSVBJM3c5AR5VbX_bvcXM_rRMhtUvSJZtfHVWSBYO7neTv1Rh3ltYWc_zsWxYn_BFt_Sr6A_aem_2UfPlmxmS6wNofK_v-hZUA <br>
-https://www.poloshirtsonly.com.au/blog/decoding-the-polo-shirt-understanding-fits-collars-plackets.htm <br>
-https://www.youtube.com/watch?v=j17dGVw3_gM&ab_channel=CartesianCaramel <br>
-https://www.mediafire.com/file/99e2ms3kf8qu39r/yqarch_6.7.4.rar/file <br>
-https://pdfcoffee.com/ <br>
-https://huggingface.co/spaces/ovi054/image-to-prompt  <br>
-https://www.youtube.com/watch?v=81nTh3a5P0I <br>
-https://www.youtube.com/@Najdmie/videos <br>
-https://drive.google.com/file/d/1gphMH7ekXOE6I6-xc49ASSodvLbg_ELQ/view <br>
-https://4download.net/tags/photoshop%20plugins/ <br>
-https://www.youtube.com/watch?v=81nTh3a5P0I <br>
-https://youtu.be/9IJXOj8jUdg?si=tMrFH0QbVu7jMUXT <br>
-https://weadown.com/wordpress-plugins/ <br>
-https://www.fast-typing.com/typing-speed-test.php?lan=bangla <br>
-https://www.shirtspace.com/blog/how-to-put-a-logo-on-a-shirt <br>
-https://drive.google.com/drive/folders/1PicijFi3vKg8AOm1FN6wHpFn5cjj_tHk<br>
-https://drive.google.com/drive/folders/1PMr8jBrSPy9igm_pdSBi-rQ9_KFJv4rw<br>
-https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD?fbclid=IwY2xjawMexu5leHRuA2FlbQIxMABicmlkETFVRUliU2ZoYzRZb3RQdDFkAR7j1Ky8ps3Xds9T3x0aiYzmDQoCNu-Pmwv7EZiIvIRKAU6PORwR7hz6nkrytQ_aem_UBXUbT9X6eYVux0c_T4wEg <br>
-QR code generator : https://www.qrcode-monkey.com/#text <br>
-Google PageSpeed Insights – https://pagespeed.web.dev/ <br>
+# 📚 Useful Resources Collection
 
-Mobile-Friendly Test – https://search.google.com/test/mobile-friendly<br>
+A curated list of tools, tutorials, software, fonts, educational resources, and utilities.
+
+---
+
+## 🔍 Digital Forensics & Recovery
+
+- [Digital Forensics Software Tools](https://drive.google.com/drive/folders/1Agn8tG2M17NeEOa7pSTv73lXQVEjz82y?usp=sharing)
+- [Recuva](https://www.ccleaner.com/recuva)
+- [YQArch v6.7.4](https://www.mediafire.com/file/99e2ms3kf8qu39r/yqarch_6.7.4.rar/file)
+
+---
+
+## 📁 Google Drive Collections
+
+- [Q Resources](https://drive.google.com/drive/folders/1PicijFi3vKg8AOm1FN6wHpFn5cjj_tHk)
+- [Drive Collection 1](https://drive.google.com/drive/folders/1PMr8jBrSPy9igm_pdSBi-rQ9_KFJv4rw)
+- [Premium Fonts](https://drive.google.com/drive/folders/1U7-Enp0EaZ19nyI2RclV0P-MSnmtm1PG)
+- [Drive Collection 2](https://drive.google.com/drive/folders/17ZGsFTl5vA9Olteq0kieINRvxWgVlgak)
+- [Drive Collection 3](https://drive.google.com/drive/folders/1ezDZ3uDplBOjbuBGw1qxzzD64tiXhtDt)
+- [Drive Collection 4](https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD)
+- [PDF Resource](https://drive.google.com/file/d/1gphMH7ekXOE6I6-xc49ASSodvLbg_ELQ/view)
+
+---
+
+## 🎨 Design & Creative Resources
+
+- [Photoskop](https://photoskop.com/)
+- [Photoshop Plugins](https://4download.net/tags/photoshop%20plugins/)
+- [Image to Prompt (Hugging Face)](https://huggingface.co/spaces/ovi054/image-to-prompt)
+
+---
+
+## 🧠 Psychology & Medical Resources
+
+- [DSM-II (Diagnostic and Statistical Manual of Mental Disorders)](https://www.madinamerica.com/wp-content/uploads/2015/08/DSM-II.pdf)
+
+---
+
+## 🔬 Education & Learning
+
+- [PhET Simulation: Wave on a String](https://phet.colorado.edu/en/simulations/wave-on-a-string)
+- [Institute of Professional Skills](https://www.youtube.com/watch?v=N7dl57vEzVY&ab_channel=InstituteofProfessionalSkills)
+
+---
+
+## 🎥 YouTube Resources
+
+- [Cartesian Caramel Video](https://www.youtube.com/watch?v=j17dGVw3_gM&ab_channel=CartesianCaramel)
+- [Video Resource 1](https://www.youtube.com/watch?v=81nTh3a5P0I)
+- [Video Resource 2](https://youtu.be/9IJXOj8jUdg?si=tMrFH0QbVu7jMUXT)
+- [Najdmie Channel](https://www.youtube.com/@Najdmie/videos)
+
+---
+
+## 🌐 Websites & Utilities
+
+- [Get Into Way](https://getintoway.com/)
+- [PDFCoffee](https://pdfcoffee.com/)
+- [WeaDown WordPress Plugins](https://weadown.com/wordpress-plugins/)
+
+---
+
+## 👕 Apparel & Print Resources
+
+- [Polo Shirt Guide](https://www.poloshirtsonly.com.au/blog/decoding-the-polo-shirt-understanding-fits-collars-plackets.htm)
+- [How to Put a Logo on a Shirt](https://www.shirtspace.com/blog/how-to-put-a-logo-on-a-shirt)
+
+---
+
+## ⚡ SEO & Web Performance Tools
+
+- [Google PageSpeed Insights](https://pagespeed.web.dev/)
+- [Google Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
+
+---
+
+## 🔧 Online Tools
+
+- [QR Code Generator](https://www.qrcode-monkey.com/#text)
+- [Bangla Typing Speed Test](https://www.fast-typing.com/typing-speed-test.php?lan=bangla)
+
+---
+
+## 📝 Notes
+
+- Some Google Drive resources may require permission to access.
+- Verify downloaded files before installation.
+- Respect copyright and licensing terms when using premium resources.
+
+---
+
+⭐ Feel free to contribute additional useful resources.
 
 
 # 🌟 Top 50 AI Tools You Should Know (Bengali Edition)
